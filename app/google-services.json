@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246435455010",
+    "project_id": "fitness-app-6535b",
+    "storage_bucket": "fitness-app-6535b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246435455010:android:c8e8253c67bf7105a86a7b",
+        "android_client_info": {
+          "package_name": "com.app.ebfitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHjttxduilnTdviRKJaG4xSNdK69x2bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
